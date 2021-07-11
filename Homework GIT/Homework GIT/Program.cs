@@ -37,5 +37,10 @@ namespace Homework_GIT
         {
             return x * y;
         }
+
+        static double Divide(double x, double y)
+        {
+            return x / y;
+        }
     }
 }
