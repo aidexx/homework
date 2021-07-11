@@ -23,5 +23,10 @@ namespace Homework_GIT
             }
 
         }
+
+        static double Multiply(double x, double y)
+        {
+            return x * y;
+        }
     }
 }
