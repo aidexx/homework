@@ -8,5 +8,10 @@ namespace Homework_GIT
         {
             Console.WriteLine("Hello World!");
         }
+
+        static double Multiply(double x, double y)
+        {
+            return x * y;
+        }
     }
 }
